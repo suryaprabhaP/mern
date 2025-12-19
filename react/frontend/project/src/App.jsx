@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
 import { useState, useEffect } from "react";
 
-import Navbar from "./assets/Navbar";
+import Navbar from "./Navbar.jsx";
 import Home from "./Home";
-import Products from "./assets/Products";
+import Products from "./Product.jsx";
 import Contact from "./Contact";
 import Cart from "./Cart";
 import Login from "./Login";
